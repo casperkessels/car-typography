@@ -30,8 +30,8 @@ async function tinifyImage(filename) {
   // This awesome setting looks for the most interesting part in the image and focuses on it
   const resized = source.resize({
     method: "cover",
-    width: 200,
-    height: 200
+    width: 800,
+    height: 800
   });
   const copyrighted = resized.preserve("copyright", "creation");
   const tinyFileName = `${filename.split('.')[0]}_tiny.${filename.split('.')[1]}`;
