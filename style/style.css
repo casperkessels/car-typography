@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+}
+
+img {
+    display: inline-block;
+    max-width: 25%!important;
+    margin:0px!important;
+    float: left;
+}

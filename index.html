@@ -6,13 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel='icon' href='favicon.ico' type='image/x-icon'/>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+  <script data-main="scripts/main" src="scripts/require.js"></script>
   <link rel="stylesheet" href="./style/style.css">
   <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Roboto&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/c258b31bf5.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="data.json"></script>
+
 
   <meta name="twitter:card" content="summary"></meta>
   <meta name="twitter:site" content="@CasperKessels">
@@ -36,131 +39,10 @@
 
 <body class="overflow-y-hidden-l">
   <container class="container w-100 overflow-x-scroll" id="container">
-    <main class="cf w-100">
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0002.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0003.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0004.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0007.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0008.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0009.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0010.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0011.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0012.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0013.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0014.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0015.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0016.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0017.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0018.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0019.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0020.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0021.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      <div class="fl w-50 w-third-m w-25-ns">
-        <div class="aspect-ratio aspect-ratio--1x1">
-          <img style="background-image:url(http://mrmrs.github.io/images/0022.jpg);"
-            class="db bg-center cover aspect-ratio--object" />
-        </div>
-      </div>
-      </main>
+    <div class="cf w-100" id="imagecontainer"></div>
   </container>
 
-  <script src="./scripts/script.js"></script>
+  <script src="./scripts/main.js"></script>
 </body>
 
 </html>

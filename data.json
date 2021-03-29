@@ -1,0 +1,284 @@
+[
+  {
+    "startYear": 1976,
+    "Make": "Porsche",
+    "Model": "911 Carrera 3.0",
+    "Img": "./assets/images/porsche-911carrera30.jpeg"
+  },
+  {
+    "startYear": 2015,
+    "Make": "Dodge",
+    "Model": "Challenger SRT Hellcat",
+    "Img": "./assets/images/dodge-challengersrt.jpeg"
+  },
+  {
+    "startYear": 1989,
+    "Make": "Porsche",
+    "Model": "944 S2",
+    "Img": "./assets/images/porsche944s2.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/talbot-samba.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/alfaromeo2000.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/austinhealey.jpg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/BMW30.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/buickroadmaster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/cadillaceldorado.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/citroends21.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/citroensm.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/citroentractionavant.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/corvettestingray.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/dinogt.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/dodge-challengersrt.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/ferrari328gts.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/ferrari355.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/ferrari412.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/fordmustang.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/fordmustang289.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/jaguarxjs.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/lanciafulvia.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/maseratigiugiaro.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/lotuseclat.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/mclaren765lt.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/mercedesamggtr.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/mercedesamggts.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/mercedesclkamg.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/peugeot201.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/peugeot205.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/peugeotpininfarina.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/pininfarina.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porsche911speedster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porsche911t.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porsche911speedster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porsche911targa.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porschecaymangt4.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porschespeedster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porsche911speedster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/porschespyder.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/renaultcliowilliams.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/saab9001.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/simcarally.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/spitfiremk2.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/toyotasupra.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/triumph.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Talbot",
+    "Model": "Samba",
+    "Img": "./assets/images/volvop1800s.jpeg"
+  }
+]
