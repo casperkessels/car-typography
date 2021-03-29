@@ -1,0 +1,30 @@
+{
+  "name": "cardesignhistory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "tinify": "echo \"Start...\" && node tinify_images.js && echo \"Finished!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://casperkessels@github.com/casperkessels/CarDesignHistory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casperkessels/CarDesignHistory/issues"
+  },
+  "homepage": "https://github.com/casperkessels/CarDesignHistory#readme",
+  "devDependencies": {
+    "jimp": "^0.16.1",
+    "progressbar.js": "^1.1.0",
+    "request": "^2.88.2",
+    "sanitize-filename": "^1.6.3",
+    "tinify": "^1.6.0-beta.2"
+  },
+  "dependencies": {
+    "d3": "^6.5.0"
+  }
+}
