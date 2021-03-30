@@ -3,282 +3,308 @@
     "startYear": 1976,
     "Make": "Porsche",
     "Model": "911 Carrera 3.0",
-    "Img": "./assets/images/porsche-911carrera30.jpeg"
-  },
-  {
-    "startYear": 2015,
-    "Make": "Dodge",
-    "Model": "Challenger SRT Hellcat",
-    "Img": "./assets/images/dodge-challengersrt.jpeg"
+    "Img": "./assets/images/porsche-911carrera30.jpeg",
+    "ImgHQ": "./assets/original/porsche-911carrera30.jpeg"
   },
   {
     "startYear": 1989,
     "Make": "Porsche",
     "Model": "944 S2",
-    "Img": "./assets/images/porsche944s2.jpeg"
+    "Img": "./assets/images/porsche944s2.jpeg",
+    "ImgHQ": "./assets/original/porsche944s2.jpeg"
   },
   {
     "startYear": 1981,
     "Make": "Talbot",
     "Model": "Samba",
-    "Img": "./assets/images/talbot-samba.jpeg"
+    "Img": "./assets/images/talbot-samba.jpeg",
+    "ImgHQ": "./assets/original/talbot-samba.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Alfa Romeo",
+    "Model": "Samba",
+    "Img": "./assets/images/alfaromeo2000.jpeg",
+    "ImgHQ": "./assets/original/alfaromeo2000.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Austin Healey",
+    "Model": "Samba",
+    "Img": "./assets/images/austinhealey.jpg",
+    "ImgHQ": "./assets/original/austinhealey.jpg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "BMW",
+    "Model": "Samba",
+    "Img": "./assets/images/BMW30.jpeg",
+    "ImgHQ": "./assets/original/BMW30.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Buick",
+    "Model": "Roadmaster",
+    "Img": "./assets/images/buickroadmaster.jpeg",
+    "ImgHQ": "./assets/original/buickroadmaster.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Cadillac",
+    "Model": "Eldorado",
+    "Img": "./assets/images/cadillaceldorado.jpeg",
+    "ImgHQ": "./assets/original/cadillaceldorado.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Citroën",
+    "Model": "DS 21",
+    "Img": "./assets/images/citroends21.jpeg",
+    "ImgHQ": "./assets/original/citroends21.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Citroën",
+    "Model": "SM",
+    "Img": "./assets/images/citroensm.jpeg",
+    "ImgHQ": "./assets/original/citroensm.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Citroën",
+    "Model": "Traction Avant",
+    "Img": "./assets/images/citroentractionavant.jpeg",
+    "ImgHQ": "./assets/original/citroentractionavant.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Img": "./assets/images/corvettestingray.jpeg",
+    "ImgHQ": "./assets/original/corvettestingray.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Dino",
+    "Model": "GT",
+    "Img": "./assets/images/dinogt.jpeg",
+    "ImgHQ": "./assets/original/dinogt.jpeg"
+  },
+  {
+    "startYear": 2015,
+    "Make": "Dodge",
+    "Model": "Challenger SRT Hellcat",
+    "Img": "./assets/images/dodge-challengersrt.jpeg",
+    "ImgHQ": "./assets/original/dodge-challengersrt.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Ferrari",
+    "Model": "328 GTS",
+    "Img": "./assets/images/ferrari328gts.jpeg",
+    "ImgHQ": "./assets/original/ferrari328gts.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Ferrari",
+    "Model": "F355 Spider",
+    "Img": "./assets/images/ferrari355.jpeg",
+    "ImgHQ": "./assets/original/ferrari355.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Ferrari",
+    "Model": "412",
+    "Img": "./assets/images/ferrari412.jpeg",
+    "ImgHQ": "./assets/original/ferrari412.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Img": "./assets/images/fordmustang.jpeg",
+    "ImgHQ": "./assets/original/fordmustang.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Img": "./assets/images/fordmustang289.jpeg",
+    "ImgHQ": "./assets/original/fordmustang289.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Jaguar",
+    "Model": "XJS",
+    "Img": "./assets/images/jaguarxjs.jpeg",
+    "ImgHQ": "./assets/original/jaguarxjs.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Lancia",
+    "Model": "Fulvia Zagato",
+    "Img": "./assets/images/lanciafulvia.jpeg",
+    "ImgHQ": "./assets/original/lanciafulvia.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Maserati",
+    "Model": "Coupé",
+    "Img": "./assets/images/maseratigiugiaro.jpeg",
+    "ImgHQ": "./assets/original/maseratigiugiaro.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Lotus",
+    "Model": "Éclat",
+    "Img": "./assets/images/lotuseclat.jpeg",
+    "ImgHQ": "./assets/original/lotuseclat.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Mclaren",
+    "Model": "765LT",
+    "Img": "./assets/images/mclaren765lt.jpeg",
+    "ImgHQ": "./assets/original/mclaren765lt.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Mercedes-Benz",
+    "Model": "AMG GTR",
+    "Img": "./assets/images/mercedesamggtr.jpeg",
+    "ImgHQ": "./assets/original/mercedesamggtr.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Mercedes-Benz",
+    "Model": "AMG GTR",
+    "Img": "./assets/images/mercedesamggts.jpeg",
+    "ImgHQ": "./assets/original/mercedesamggts.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Mercedes-Benz",
+    "Model": "CLK AMG Black Series",
+    "Img": "./assets/images/mercedesclkamg.jpeg",
+    "ImgHQ": "./assets/original/mercedesclkamg.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Peugeot",
+    "Model": "201",
+    "Img": "./assets/images/peugeot201.jpeg",
+    "ImgHQ": "./assets/original/peugeot201.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Peugeot",
+    "Model": "205 GTI",
+    "Img": "./assets/images/peugeot205.jpeg",
+    "ImgHQ": "./assets/original/peugeot205.jpeg"
+  },
+  {
+    "startYear": 1981,
+    "Make": "Peugeot",
+    "Model": "Samba",
+    "Img": "./assets/images/peugeotpininfarina.jpeg",
+    "ImgHQ": "./assets/original/peugeotpininfarina.jpeg"
   },
   {
     "startYear": 1981,
     "Make": "Talbot",
     "Model": "Samba",
-    "Img": "./assets/images/alfaromeo2000.jpeg"
+    "Img": "./assets/images/pininfarina.jpeg",
+    "ImgHQ": "./assets/original/pininfarina.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/austinhealey.jpg"
+    "Make": "Porsche",
+    "Model": "911 Speedster",
+    "Img": "./assets/images/porsche911speedster.jpeg",
+    "ImgHQ": "./assets/original/porsche911speedster.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/BMW30.jpeg"
+    "Make": "Porsche",
+    "Model": "911T",
+    "Img": "./assets/images/porsche911t.jpeg",
+    "ImgHQ": "./assets/original/porsche911t.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/buickroadmaster.jpeg"
+    "Make": "Porsche",
+    "Model": "911 Targa",
+    "Img": "./assets/images/porsche911targa.jpeg",
+    "ImgHQ": "./assets/original/porsche911targa.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/cadillaceldorado.jpeg"
+    "Make": "Porsche",
+    "Model": "Cayman GT4",
+    "Img": "./assets/images/porschecaymangt4.jpeg",
+    "ImgHQ": "./assets/original/porschecaymangt4.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/citroends21.jpeg"
+    "Make": "Porsche",
+    "Model": "356 Speedster",
+    "Img": "./assets/images/porschespeedster.jpeg",
+    "ImgHQ": "./assets/original/porschespeedster.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/citroensm.jpeg"
+    "Make": "Porsche",
+    "Model": "505 Spyder",
+    "Img": "./assets/images/porschespyder.jpeg",
+    "ImgHQ": "./assets/original/porschespyder.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/citroentractionavant.jpeg"
+    "Make": "Renault",
+    "Model": "Clio Williams",
+    "Img": "./assets/images/renaultcliowilliams.jpeg",
+    "ImgHQ": "./assets/original/renaultcliowilliams.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/corvettestingray.jpeg"
+    "Make": "Saab",
+    "Model": "900i",
+    "Img": "./assets/images/saab9001.jpeg",
+    "ImgHQ": "./assets/original/saab9001.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/dinogt.jpeg"
+    "Make": "Simca",
+    "Model": "Rallye 2",
+    "Img": "./assets/images/simcarally.jpeg",
+    "ImgHQ": "./assets/original/simcarally.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/dodge-challengersrt.jpeg"
+    "Make": "Triumph",
+    "Model": "Spitfire MK2",
+    "Img": "./assets/images/spitfiremk2.jpeg",
+    "ImgHQ": "./assets/original/spitfiremk2.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/ferrari328gts.jpeg"
+    "Make": "Toyota",
+    "Model": "Supra",
+    "Img": "./assets/images/toyotasupra.jpeg",
+    "ImgHQ": "./assets/original/toyotasupra.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
+    "Make": "Triumph",
     "Model": "Samba",
-    "Img": "./assets/images/ferrari355.jpeg"
+    "Img": "./assets/images/triumph.jpeg",
+    "ImgHQ": "./assets/original/triumph.jpeg"
   },
   {
     "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/ferrari412.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/fordmustang.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/fordmustang289.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/jaguarxjs.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/lanciafulvia.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/maseratigiugiaro.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/lotuseclat.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/mclaren765lt.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/mercedesamggtr.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/mercedesamggts.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/mercedesclkamg.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/peugeot201.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/peugeot205.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/peugeotpininfarina.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/pininfarina.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porsche911speedster.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porsche911t.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porsche911speedster.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porsche911targa.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porschecaymangt4.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porschespeedster.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porsche911speedster.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/porschespyder.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/renaultcliowilliams.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/saab9001.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/simcarally.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/spitfiremk2.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/toyotasupra.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/triumph.jpeg"
-  },
-  {
-    "startYear": 1981,
-    "Make": "Talbot",
-    "Model": "Samba",
-    "Img": "./assets/images/volvop1800s.jpeg"
+    "Make": "Volvo",
+    "Model": "P1800s",
+    "Img": "./assets/images/volvop1800s.jpeg",
+    "ImgHQ": "./assets/original/volvop1800s.jpeg"
   }
-]
+ ]

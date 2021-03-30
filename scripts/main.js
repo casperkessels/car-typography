@@ -24,6 +24,13 @@ request.onload = function() {
         var img = document.createElement("img");
         img.src = obj.Img;
         imagecontainer.appendChild(img);
+        selectmake = document.getElementById("selectmake");
+        var option = document.createElement("option");
+        option.value = obj.Make;
+        option.text = obj.Make;
+        selectmake.appendChild(option);
+
+
     }
 }
 
