@@ -2,44 +2,41 @@ startYear,Make,Model,Img,ImgHQ
 1976,Porsche,911 Carrera 3.0,./assets/images/porsche-911carrera30.jpeg,./assets/original/porsche-911carrera30.jpeg
 1989,Porsche,944 S2,./assets/images/porsche944s2.jpeg,./assets/original/porsche944s2.jpeg
 1981,Talbot,Samba,./assets/images/talbot-samba.jpeg,./assets/original/talbot-samba.jpeg
-1981,Alfa Romeo,Samba,./assets/images/alfaromeo2000.jpeg,./assets/original/alfaromeo2000.jpeg
-1981,Austin Healey,Samba,./assets/images/austinhealey.jpg,./assets/original/austinhealey.jpg
-1981,BMW,Samba,./assets/images/BMW30.jpeg,./assets/original/BMW30.jpeg
-1981,Buick,Roadmaster,./assets/images/buickroadmaster.jpeg,./assets/original/buickroadmaster.jpeg
-1981,Cadillac,Eldorado,./assets/images/cadillaceldorado.jpeg,./assets/original/cadillaceldorado.jpeg
-1981,Citroën,DS 21,./assets/images/citroends21.jpeg,./assets/original/citroends21.jpeg
-1981,Citroën,SM,./assets/images/citroensm.jpeg,./assets/original/citroensm.jpeg
-1981,Citroën,Traction Avant,./assets/images/citroentractionavant.jpeg,./assets/original/citroentractionavant.jpeg
-1981,Chevrolet,Corvette Stingray,./assets/images/corvettestingray.jpeg,./assets/original/corvettestingray.jpeg
-1981,Dino,GT,./assets/images/dinogt.jpeg,./assets/original/dinogt.jpeg
+1971,Alfa Romeo,2000 GTV,./assets/images/alfaromeo2000.jpeg,./assets/original/alfaromeo2000.jpeg
+1959,Austin Healey,3000,./assets/images/austinhealey.jpg,./assets/original/austinhealey.jpg
+1971,BMW,3.0 CSi,./assets/images/BMW30.jpeg,./assets/original/BMW30.jpeg
+1949,Buick,Roadmaster,./assets/images/buickroadmaster.jpeg,./assets/original/buickroadmaster.jpeg
+1986,Cadillac,Eldorado,./assets/images/cadillaceldorado.jpeg,./assets/original/cadillaceldorado.jpeg
+1965,Citroën,DS 21,./assets/images/citroends21.jpeg,./assets/original/citroends21.jpeg
+1970,Citroën,SM,./assets/images/citroensm.jpeg,./assets/original/citroensm.jpeg
+1934,Citroën,Traction Avant,./assets/images/citroentractionavant.jpeg,./assets/original/citroentractionavant.jpeg
+1968,Chevrolet,Corvette Stingray,./assets/images/corvettestingray.jpeg,./assets/original/corvettestingray.jpeg
+1969,Dino,246 GT,./assets/images/dinogt.jpeg,./assets/original/dinogt.jpeg
 2015,Dodge,Challenger SRT Hellcat,./assets/images/dodge-challengersrt.jpeg,./assets/original/dodge-challengersrt.jpeg
-1981,Ferrari,328 GTS,./assets/images/ferrari328gts.jpeg,./assets/original/ferrari328gts.jpeg
-1981,Ferrari,F355 Spider,./assets/images/ferrari355.jpeg,./assets/original/ferrari355.jpeg
-1981,Ferrari,412,./assets/images/ferrari412.jpeg,./assets/original/ferrari412.jpeg
-1981,Ford,Mustang,./assets/images/fordmustang.jpeg,./assets/original/fordmustang.jpeg
-1981,Ford,Mustang,./assets/images/fordmustang289.jpeg,./assets/original/fordmustang289.jpeg
-1981,Jaguar,XJS,./assets/images/jaguarxjs.jpeg,./assets/original/jaguarxjs.jpeg
-1981,Lancia,Fulvia Zagato,./assets/images/lanciafulvia.jpeg,./assets/original/lanciafulvia.jpeg
-1981,Maserati,Coupé,./assets/images/maseratigiugiaro.jpeg,./assets/original/maseratigiugiaro.jpeg
-1981,Lotus,Éclat,./assets/images/lotuseclat.jpeg,./assets/original/lotuseclat.jpeg
-1981,Mclaren,765LT,./assets/images/mclaren765lt.jpeg,./assets/original/mclaren765lt.jpeg
-1981,Mercedes-Benz,AMG GTR,./assets/images/mercedesamggtr.jpeg,./assets/original/mercedesamggtr.jpeg
-1981,Mercedes-Benz,AMG GTR,./assets/images/mercedesamggts.jpeg,./assets/original/mercedesamggts.jpeg
-1981,Mercedes-Benz,CLK AMG Black Series,./assets/images/mercedesclkamg.jpeg,./assets/original/mercedesclkamg.jpeg
-1981,Peugeot,201,./assets/images/peugeot201.jpeg,./assets/original/peugeot201.jpeg
-1981,Peugeot,205 GTI,./assets/images/peugeot205.jpeg,./assets/original/peugeot205.jpeg
-1981,Peugeot,Samba,./assets/images/peugeotpininfarina.jpeg,./assets/original/peugeotpininfarina.jpeg
-1981,Talbot,Samba,./assets/images/pininfarina.jpeg,./assets/original/pininfarina.jpeg
-1981,Porsche,911 Speedster,./assets/images/porsche911speedster.jpeg,./assets/original/porsche911speedster.jpeg
-1981,Porsche,911T,./assets/images/porsche911t.jpeg,./assets/original/porsche911t.jpeg
-1981,Porsche,911 Targa,./assets/images/porsche911targa.jpeg,./assets/original/porsche911targa.jpeg
-1981,Porsche,Cayman GT4,./assets/images/porschecaymangt4.jpeg,./assets/original/porschecaymangt4.jpeg
-1981,Porsche,356 Speedster,./assets/images/porschespeedster.jpeg,./assets/original/porschespeedster.jpeg
-1981,Porsche,505 Spyder,./assets/images/porschespyder.jpeg,./assets/original/porschespyder.jpeg
-1981,Renault,Clio Williams,./assets/images/renaultcliowilliams.jpeg,./assets/original/renaultcliowilliams.jpeg
-1981,Saab,900i,./assets/images/saab9001.jpeg,./assets/original/saab9001.jpeg
-1981,Simca,Rallye 2,./assets/images/simcarally.jpeg,./assets/original/simcarally.jpeg
-1981,Triumph,Spitfire MK2,./assets/images/spitfiremk2.jpeg,./assets/original/spitfiremk2.jpeg
-1981,Toyota,Supra,./assets/images/toyotasupra.jpeg,./assets/original/toyotasupra.jpeg
-1981,Triumph,Samba,./assets/images/triumph.jpeg,./assets/original/triumph.jpeg
-1981,Volvo,P1800s,./assets/images/volvop1800s.jpeg,./assets/original/volvop1800s.jpeg
+1985,Ferrari,328 GTS,./assets/images/ferrari328gts.jpeg,./assets/original/ferrari328gts.jpeg
+1995,Ferrari,F355 Spider,./assets/images/ferrari355.jpeg,./assets/original/ferrari355.jpeg
+1985,Ferrari,412,./assets/images/ferrari412.jpeg,./assets/original/ferrari412.jpeg
+1967,Ford,Mustang,./assets/images/fordmustang.jpeg,./assets/original/fordmustang.jpeg
+1966,Ford,Mustang,./assets/images/fordmustang289.jpeg,./assets/original/fordmustang289.jpeg
+1975,Jaguar,XJS,./assets/images/jaguarxjs.jpeg,./assets/original/jaguarxjs.jpeg
+1965,Lancia,Fulvia Sport,./assets/images/lanciafulvia.jpeg,./assets/original/lanciafulvia.jpeg
+2001,Maserati,Coupé,./assets/images/maseratigiugiaro.jpeg,./assets/original/maseratigiugiaro.jpeg
+1975,Lotus,Éclat,./assets/images/lotuseclat.jpeg,./assets/original/lotuseclat.jpeg
+2020,Mclaren,765LT,./assets/images/mclaren765lt.jpeg,./assets/original/mclaren765lt.jpeg
+2017,Mercedes-Benz,AMG GTR,./assets/images/mercedesamggtr.jpeg,./assets/original/mercedesamggtr.jpeg
+2007,Mercedes-Benz,CLK AMG Black Series,./assets/images/mercedesclkamg.jpeg,./assets/original/mercedesclkamg.jpeg
+1929,Peugeot,201,./assets/images/peugeot201.jpeg,./assets/original/peugeot201.jpeg
+1984,Peugeot,205 GTI,./assets/images/peugeot205.jpeg,./assets/original/peugeot205.jpeg
+1969,Peugeot,504 Coupé,./assets/images/peugeotpininfarina.jpeg,./assets/original/peugeotpininfarina.jpeg
+2019,Porsche,911 991 Speedster,./assets/images/porsche911speedster.jpeg,./assets/original/porsche911speedster.jpeg
+1967,Porsche,911T,./assets/images/porsche911t.jpeg,./assets/original/porsche911t.jpeg
+1997,Porsche,911 Targa,./assets/images/porsche911targa.jpeg,./assets/original/porsche911targa.jpeg
+1954,Porsche,356 Speedster,./assets/images/porschespeedster.jpeg,./assets/original/porschespeedster.jpeg
+1953,Porsche,505 Spyder,./assets/images/porschespyder.jpeg,./assets/original/porschespyder.jpeg
+1993,Renault,Clio Williams,./assets/images/renaultcliowilliams.jpeg,./assets/original/renaultcliowilliams.jpeg
+1978,Saab,900i,./assets/images/saab9001.jpeg,./assets/original/saab9001.jpeg
+1972,Simca,1000 Rallye 2,./assets/images/simcarally.jpeg,./assets/original/simcarally.jpeg
+1965,Triumph,Spitfire MK2,./assets/images/spitfiremk2.jpeg,./assets/original/spitfiremk2.jpeg
+1986,Toyota,Supra,./assets/images/toyotasupra.jpeg,./assets/original/toyotasupra.jpeg
+1955,Triumph,TR3,./assets/images/triumph.jpeg,./assets/original/triumph.jpeg
+1963,Volvo,1800s,./assets/images/volvop1800s.jpeg,./assets/original/volvop1800s.jpeg
